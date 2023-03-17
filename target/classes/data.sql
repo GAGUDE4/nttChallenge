@@ -1,0 +1,1 @@
+INSERT INTO cliente (id, typeId, firstName, secondName, firstLastName, secondLastName, telefone, address, city) VALUES (23445322, 'C', 'pepito', ' alejandro', 'perez', 'torres', '3125252501', 'Cll 71 # 04-24', 'Bogota');
