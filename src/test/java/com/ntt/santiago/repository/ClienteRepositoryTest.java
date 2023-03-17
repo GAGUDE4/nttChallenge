@@ -15,7 +15,7 @@ import java.util.Optional;
 @DataJpaTest
 @ExtendWith(SpringExtension.class)
 @Transactional
-public class ProductoRepositoryTest {
+public class ClienteRepositoryTest {
 
     @Autowired
     private ClienteRepository clienteRepository;

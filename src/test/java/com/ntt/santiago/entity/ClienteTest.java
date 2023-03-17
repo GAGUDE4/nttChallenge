@@ -15,7 +15,7 @@ import java.util.List;
 
 @RunWith(SpringRunner.class)
 @DataJpaTest
-public class ItemTest {
+public class ClienteTest {
 
     @Rule
     public ExpectedException thrown = ExpectedException.none();
